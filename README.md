@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronggang</h1>
-<h3 align="center">I am a new grad from UAlberta CS Honor and have work experience in Data Analytics and Software Development</h3>
+<h3 align="center">I am a new grad from UAlberta CS Honor and have work experience in Software Development and Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronggangcui&label=Profile%20views&color=0e75b6&style=flat" alt="ronggangcui" /> </p>
 
