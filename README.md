@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronggangcui" alt="ronggangcui" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- I’m currently learning **AWS**
 
-- 📫 How to reach me **rongcuidev@gmail.com**
+- How to reach me **rongcuidev@gmail.com**
 
 <p align="left">
 </p>
