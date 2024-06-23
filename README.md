@@ -2,6 +2,7 @@
 <h3 align="center">UAlberta CS Honors Graduate </h3>
 <h3 align="center">Proven Experience in Software Development, Data Analytics, and Cloud Deployment</h3>
 
+- Visit my website at : coming soon.
 - How to reach me **rongcuidev@gmail.com**
 
 <p align="left">
