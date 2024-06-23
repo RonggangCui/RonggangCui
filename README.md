@@ -4,7 +4,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](http://github.com/RonggangCui/)
+Email: rongcuidev@gmail.com
 
 ## About Me
 
