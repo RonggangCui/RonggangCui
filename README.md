@@ -1,16 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ronggang</h1>
-<h3 align="center">UAlberta CS Honors Graduate </h3>
-<h3 align="center">Proven Experience in Software Development, Data Analytics, and Cloud Deployment</h3>
+# Ronggang Cui
 
-- Visit my website at : coming soon.
-- How to reach me **rongcuidev@gmail.com**
+![Profile Picture](https://drive.google.com/drive/folders/1GgRd9z5fU6kVEu0hup7-Uiq0bfOVWce9)
 
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](http://github.com/RonggangCui/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronggangcui&show_icons=true&locale=en" alt="ronggangcui" /></p>
+I am a **University of Alberta CS Honors Graduate** with a passion for software development, data analytics, and cloud deployment. With a proven track record in delivering high-quality projects and mentoring teams, I bring a combination of technical expertise and practical experience to the table.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronggangcui&" alt="ronggangcui" /></p>
+## Skills
+
+- **Languages & Frameworks**: JavaScript, TypeScript, React, NodeJS, Django
+- **APIs & Cloud**: REST APIs, AWS, Google Cloud
+- **Data Tools**: Tableau, ArcGIS
+- **Others**: Agile Project Management, SQL
+
+## Professional Experience
+
+### Web Application Teaching Assistant
+*University of Alberta* | *Jan 2024 - April 2024*
+- Facilitated workshops on network security, RESTful API development, and cloud deployment with Heroku and other cloud services
+- Delivered tutorials on developing models, serializers, and RESTful API endpoints with Django
+- Supervised five student teams on project development using Agile principles
+
+### Data Automation Developer
+*City of Edmonton, Municipal Government* | *May 2023 - Dec 2023*
+- Developed data processing pipelines to track KPIs for a $100 million budget
+- Built geographical data collection software using ArcGIS tools
+- Optimized ETL processes, reducing runtime significantly
+
+### Software Developer
+*Zero Ramp Up Technologies* | *Sep 2022 - Dec 2022*
+- Developed REST APIs and front-end components using NodeJS, PostgreSQL, and React
+- Improved system functionality and user experience
+
+## Selected Projects
+
+### Distributed Social Networking | Web App Group Project
+*Jan 2023 – Apr 2023*
+- Designed a social networking web app using UML diagrams and OOP principles
+- Developed RESTful API services for post creation and image uploading with Django
+
+### MNIST and CIFAR-10 Image Classification | Personal ML Project
+*Sep 2022 – Dec 2022*
+- Tuned CNN hyperparameters to achieve optimal performance in image classification
+
+### QR Chaser | Android App Group Project
+*Jan 2022 – Apr 2022*
+- Designed sorting algorithms for player score ranking
+- Integrated GPS tracking and geolocation services using Google Map API
+
+## Education
+
+**University of Alberta** | BS Honors in Computing Science
+*Sep 2019 - April 2024*
+- GPA: 3.7
+- Coursework: Agile Project Management, Mobile and Web App Development, Database Management, Data Structure and Algorithms, Supervised Learning, Deep Learning, Reinforcement Learning
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner** | Apr 2024 - Present
+
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/ronggang-cui/) or check out my projects on [GitHub](http://github.com/RonggangCui).
