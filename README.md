@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronggang</h1>
-<h3 align="center">UAlberta CS Honors Graduate with Proven Experience in Software Development, Data Analytics, and Cloud Deployment</h3>
+<h3 align="center">UAlberta CS Honors Graduate </h3>
+<h3 align="center">Proven Experience in Software Development, Data Analytics, and Cloud Deployment</h3>
 
 - How to reach me **rongcuidev@gmail.com**
 
