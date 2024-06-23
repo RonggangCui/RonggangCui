@@ -1,8 +1,5 @@
 # Ronggang Cui
 
-<img src="https://github.com/RonggangCui/RonggangCui/blob/main/profile_photo.jpeg" alt="Profile Picture" width="150">
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
 
 ## About Me
