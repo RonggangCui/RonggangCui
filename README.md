@@ -4,7 +4,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
-Email: rongcuidev@gmail.com
+- Email: rongcuidev@gmail.com
 
 ## About Me
 
