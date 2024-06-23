@@ -1,6 +1,6 @@
 # Ronggang Cui
 
-![Profile Picture](https://drive.google.com/drive/folders/1GgRd9z5fU6kVEu0hup7-Uiq0bfOVWce9)
+![Profile Picture](https://github.com/RonggangCui/RonggangCui/blob/main/profile_photo.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](http://github.com/RonggangCui/)
