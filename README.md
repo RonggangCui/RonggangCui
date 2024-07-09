@@ -4,8 +4,7 @@
 
 ## About Me
 
-I am a Software Developer with a BS Honors in Computing Science from the University of Alberta. I have experience in developing APIs, optimizing data processes, and deploying cloud solutions. My work focuses on creating scalable and efficient software solutions.
-
+I am a Software Developer with a BS Honors in Computing Science from the University of Alberta. My experience includes developing APIs, optimizing data processes, and deploying cloud solutions. I am open to relocation and available to start promptly.
 
 Find out more about me on my [portfolio website](https://ronggangcui.github.io/).
 
