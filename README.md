@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a University of Alberta CS Honors Graduate with a passion for software development, data analytics, and cloud deployment. With a proven track record in delivering high-quality projects and solutions, I bring a combination of technical expertise and practical experience to the table.
+I am a Software Developer with a BS Honors in Computing Science from the University of Alberta. I have experience in developing APIs, optimizing data processes, and deploying cloud solutions. My work focuses on creating scalable and efficient software solutions.
 
 
 Find out more about me on my [portfolio website](https://ronggangcui.github.io/).
