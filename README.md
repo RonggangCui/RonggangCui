@@ -4,8 +4,4 @@
 
 ## About Me
 
-I am a Software Developer with a BS Honors in Computing Science from the University of Alberta. My experience includes developing APIs, optimizing data processes, and deploying cloud solutions. I am open to relocation and available to start promptly.
-
-Find out more about me on my [portfolio website](https://ronggangcui.github.io/).
-
-If you know of a position that would be a good fit for me, please contact me at [rongcuidev@gmail.com](mailto:rongcuidev@gmail.com).
+Hi, my name is Ronggang Cui, and I’m a passionate and results-driven application analyst and developer with a strong foundation in software engineering, cloud technologies, and data analytics. With hands-on experience in building robust web applications, streamlining data pipelines, and mentoring agile teams, I bring a blend of technical expertise and collaborative energy to every project I take on.
