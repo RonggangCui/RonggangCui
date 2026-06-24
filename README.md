@@ -1,6 +1,6 @@
 # Hi — I'm Ronggang Cui 👋
 
-[![Website](https://img.shields.io/badge/Website-ronggangcui.github.io-lightgrey)](https://ronggangcui.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/ronggang-cui/)
+[![Website](https://img.shields.io/badge/Website-ronggangcui.github.io-lightgrey)](https://ronggangcui.github.io)
 
 I’m a solo founder building product-first iOS apps and companion web applications. I design, develop, and ship my own products — not available for client work.
 
@@ -25,39 +25,8 @@ I’m a solo founder building product-first iOS apps and companion web applicati
 
 ---
 
-## Featured projects
-
-> I can replace these placeholders with your actual repos and short demos (App Store / TestFlight links, GIFs).
-
-- **Project A** — iOS productivity app — short description
-- **Project B** — Web dashboard & API — short description
-
-## Showcase
-
-![demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
----
-
 ## About my work
 
 - Product-first: I build what I want to use, iterate quickly, and ship on the App Store.
 - Solo-founder: I handle design, development, and infrastructure end-to-end.
 - Not doing client/contract work — I focus on my own products and experiments.
-
----
-
-## Contact
-
-- Website: https://ronggangcui.github.io
-- LinkedIn: http://linkedin.com/in/ronggang-cui/
-- Email: replace-me@example.com
-
----
-
-Want it fancier still? I can:
-
-- Add App Store / TestFlight badges and screenshots
-- Add animated project GIFs and a projects gallery
-- Add a GitHub Action to auto-update the README with a "Now building" badge
-
-Tell me which upgrade to do next.
