@@ -9,7 +9,6 @@ I’m a solo founder building product-first iOS apps and companion web applicati
 🎯 Current focus
 
 - 🚀 Shipping native iOS apps (Swift, SwiftUI, UIKit)
-- 🌐 Building companion web dashboards and APIs
 - 🤖 Integrating AI/agent capabilities where they provide product value
 - ⚡ Rapid prototyping → TestFlight → App Store
 
@@ -29,4 +28,3 @@ I’m a solo founder building product-first iOS apps and companion web applicati
 
 - Product-first: I build what I want to use, iterate quickly, and ship on the App Store.
 - Solo-founder: I handle design, development, and infrastructure end-to-end.
-- Not doing client/contract work — I focus on my own products and experiments.
