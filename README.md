@@ -3,11 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
 [![Website](https://img.shields.io/badge/Website-ronggangcui.github.io-lightgrey)](https://ronggangcui.github.io)
 
-Ronggang Cui — iOS Developer & Solo Founder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ronggang-cui/)
-[![Website](https://img.shields.io/badge/Website-ronggangcui.github.io-lightgrey)](https://ronggangcui.github.io)
-
 I am a solo founder focused on building my own iOS applications and companion web applications. I design, develop, and ship products—primarily for my own initiatives. I am not taking client or contract work.
 
 Core focus:
