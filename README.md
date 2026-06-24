@@ -2,9 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-ronggangcui.github.io-lightgrey)](https://ronggangcui.github.io)
 
-I’m a solo founder building product-first iOS apps and companion web applications. I design, develop, and ship my own products — not available for client work.
-
----
+I’m an indie developer building product-first iOS apps and web apps. I design, develop, and ship my own products — from rough idea to real release, with plenty of debugging, coffee, and “why is this suddenly working?” moments along the way.
 
 🎯 Current focus
 
